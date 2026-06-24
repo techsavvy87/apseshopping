@@ -15,9 +15,6 @@ const Home = () => {
               <h4 className="uppercase text-[#222529] font-bold text-[14px]">
                 Free shipping & return
               </h4>
-              <p className="text-[13px] text-[#777777]">
-                Free shipping on all orders over &99
-              </p>
             </div>
           </div>
           <div className="flex items-center">
