@@ -13,7 +13,7 @@ const Home = () => {
             />
             <div>
               <h4 className="uppercase text-[#222529] font-bold text-[14px]">
-                Free shipping & return
+                Free and Paid shipping & return
               </h4>
             </div>
           </div>
@@ -33,15 +33,12 @@ const Home = () => {
           </div>
           <div className="flex items-center">
             <LiaShippingFastSolid
-              className="text-[37px] text-[#222529] mr-[15px]"
+              className="text-[50px] text-[#222529] mr-[15px]"
               aria-hidden="true"
             />
             <div>
-              <h4 className="uppercase text-[#222529] font-bold text-[14px]">
-                ONLINE SUPPORT 24/7
-              </h4>
               <p className="text-[13px] text-[#777777]">
-                Lorem ipsum dolor sit amet.
+                Good Service.
               </p>
             </div>
           </div>
