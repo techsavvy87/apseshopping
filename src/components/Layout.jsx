@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
               </a>
               <a href="https://wa.me/918073667950" target="_blank">
                 <p className="top-message text-uppercase">
-                  <i className="fab fa-whatsapp mr-2"></i> WhatsApp Support
+                  <i className="fab fa-whatsapp mr-2"></i> Telegram Support
                 </p>
               </a>
             </div>
@@ -62,7 +62,7 @@ const Layout = ({ children }) => {
                   <i className="fas fa-sign-in-alt mr-2"></i> Log In
                 </a>
                 <a href="https://apseshopping.com/register">
-                  <i className="far fa-registered mr-2"></i> Register
+                  <i className="far fa-registered mr-2"></i> Sign up
                 </a>
               </div>
               <div className="social-icons">
