@@ -13,7 +13,7 @@ const Home = () => {
             />
             <div>
               <h4 className="uppercase text-[#222529] font-bold text-[14px]">
-                Free and Paid shipping & return
+                Free and Paid shipping & return good and bad thing
               </h4>
             </div>
           </div>
